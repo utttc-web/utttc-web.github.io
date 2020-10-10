@@ -5,6 +5,8 @@
 
 .profile__img {
   width: 300px;
+  height: 400px;
+  object-fit: cover;
 }
 
 .profile__name,.profile__yomi,.profile__desc {
