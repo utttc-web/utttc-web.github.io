@@ -9,7 +9,7 @@
   object-fit: cover;
 }
 
-.profile__name,.profile__yomi,.profile__desc {
+.profile__name,.profile__yomi,.profile__desc,.profile__former__school, .profile__hometown {
   color: #fff;
 }
 
@@ -21,6 +21,20 @@
 }
 
 .profile__yomi {
+  padding:0 2rem;
+  font-size:.8rem;
+  letter-spacing:.1rem;
+  opacity:.7;
+}
+
+.profile__former__school {
+  padding:0 2rem;
+  font-size:.8rem;
+  letter-spacing:.1rem;
+  opacity:.7;
+}
+
+.profile__hometown {
   padding:0 2rem;
   font-size:.8rem;
   letter-spacing:.1rem;
